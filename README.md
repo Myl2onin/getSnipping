@@ -1,4 +1,4 @@
-# getSnipping
+# getSnipping make Snipping auto save
 <H1>I had DEV mini tool for  &nbsp; "A U T O &nbsp; S A V E"  &nbsp;Snipping (Microsoft Original Program) from [WIN]+[SHIFT]+[S]</H1>
 
 <br><br>
