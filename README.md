@@ -6,12 +6,13 @@
 <h3>
 ⭐ Execute program
 
-![image](https://user-images.githubusercontent.com/52792215/185800058-ed47a420-c870-48db-b038-b603e5753da5.png)
+![image](https://user-images.githubusercontent.com/52792215/185800058-ed47a420-c870-48db-b038-b603e5753da5.png)</h3>
+<span style="color:red">If you wanna add autorun when windows startup you have to execute program by Run as administrator</span>
+<br>
+<br><br>
 
-<br>
-(If you wanna add autorun when windows startup you have to execute program by Run as administrator)
-<br>
-<br>
+<h3>
+  
 ⭐ It's will show engine tray on right taskbar.<br>
 ![alt text](https://github.com/Myl2onin/getSnipping/blob/main/tray.png)
 
